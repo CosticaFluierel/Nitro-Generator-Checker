@@ -49,3 +49,4 @@ with open("Nitro Codes.txt") as file:
             print(f" Invalid | {nitro} ")
 
 input("\nYou have generated, Now press enter to close this, you'll get valid codes in Valid Codes.txt if you see its empty then you got no luck, generate 20 million codes for luck or else.")
+python 
